@@ -6,8 +6,8 @@ import {
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 const CONTRACT       = "0x251be3a17af4892035c37ebf5890f4a4d889dcad";
-const RPC_URL        = "https://polygon-mainnet.g.alchemy.com/v2/9x2Vxjzh9eEXVFkMIMzZo";
-const NFT_API        = "https://polygon-mainnet.g.alchemy.com/nft/v3/9x2Vxjzh9eEXVFkMIMzZo";
+const RPC_URL        = "https://polygon-mainnet.g.alchemy.com/v2/AXHCcv10NBX8K1yLN939m";
+const NFT_API        = "https://polygon-mainnet.g.alchemy.com/nft/v3/AXHCcv10NBX8K1yLN939m";
 const TRANSFER_TOPIC = "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef";
 const FROM_ZERO      = "0x0000000000000000000000000000000000000000000000000000000000000000";
 const POLL_MS        = 30_000;
