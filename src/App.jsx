@@ -7,8 +7,8 @@ import {
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 const CONTRACT       = "0x251be3a17af4892035c37ebf5890f4a4d889dcad";
 const ALCHEMY_KEY    = "AXHCcv10NBX8K1yLN939m";
-const ALCHEMY_RPC    = `https://polygon-mainnet.g.alchemy.com/v2/${ALCHEMY_KEY}`;
-const ALCHEMY_NFT    = `https://polygon-mainnet.g.alchemy.com/nft/v3/${ALCHEMY_KEY}`;
+const ALCHEMY_RPC    = `https://polygon-mainnet.g.alchemy.com/v2/${AXHCcv10NBX8K1yLN939m}`;
+const ALCHEMY_NFT    = `https://polygon-mainnet.g.alchemy.com/nft/v3/${AXHCcv10NBX8K1yLN939m}`;
 const PUBLIC_RPCS    = ["https://polygon.llamarpc.com","https://polygon-rpc.com"];
 const TRANSFER_TOPIC = "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef";
 const FROM_ZERO      = "0x0000000000000000000000000000000000000000000000000000000000000000";
